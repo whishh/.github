@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://whishh.app">Website</a> ·
   <a href="https://whishh.app/privacy">Privacy</a> ·
-  <a href="mailto:hello@whishh.app">Contact</a>
+  <a href="mailto:contact@mtvchk.dev">Contact</a>
 </p>
 
 ## What we are building
