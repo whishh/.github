@@ -1,6 +1,9 @@
 <p align="center">
   <a href="https://whishh.app">
-    <img src="whishh-icon.png" alt="whishh" width="96" height="96">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="whishh-icon-dark.png">
+      <img src="whishh-icon-light.png" alt="whishh" width="96" height="96">
+    </picture>
   </a>
 </p>
 
